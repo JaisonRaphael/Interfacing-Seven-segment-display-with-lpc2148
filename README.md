@@ -1,8 +1,8 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name:  AK MOHAN RAJ 
+Name:  Jaison Raphael.V
 
-Roll no :212221230064
+Roll no :212221230038
 
 
  
